@@ -1,0 +1,160 @@
+{
+    "ticker_list": [
+        {
+            "name": "SKTelecom",
+            "type": "EQUITY",
+            "ticker": "017670.KS",
+            "currency": "KRW"
+        },
+        {
+            "name": "Taiwan Semiconductor Manufactur",
+            "type": "EQUITY",
+            "ticker": "TSM",
+            "currency": "USD"
+        },
+        {
+            "name": "MKIF",
+            "type": "EQUITY",
+            "ticker": "088980.KS",
+            "currency": "KRW"
+        },
+        {
+            "name": "ProShares UltraPro QQQ",
+            "type": "ETF",
+            "ticker": "TQQQ",
+            "currency": "USD"
+        },
+        {
+            "name": "Broadcom Inc.",
+            "type": "EQUITY",
+            "ticker": "AVGO",
+            "currency": "USD"
+        },
+        {
+            "name": "Realty Income Corporation",
+            "type": "EQUITY",
+            "ticker": "O",
+            "currency": "USD"
+        },
+        {
+            "name": "HANAFINANCIALGR",
+            "type": "EQUITY",
+            "ticker": "086790.KS",
+            "currency": "KRW"
+        },
+        {
+            "name": "Schwab US Dividend Equity ETF",
+            "type": "ETF",
+            "ticker": "SCHD",
+            "currency": "USD"
+        },
+        {
+            "name": "Vanguard S&P 500 ETF",
+            "type": "ETF",
+            "ticker": "VOO",
+            "currency": "USD"
+        },
+        {
+            "name": "KT",
+            "type": "EQUITY",
+            "ticker": "030200.KS",
+            "currency": "KRW"
+        },
+        {
+            "name": "KODEX S&P500",
+            "type": "ETF",
+            "ticker": "379800.KS",
+            "currency": "KRW"
+        },
+        {
+            "name": "NVIDIA Corporation",
+            "type": "EQUITY",
+            "ticker": "NVDA",
+            "currency": "USD"
+        },
+        {
+            "name": "SamsungSecu",
+            "type": "EQUITY",
+            "ticker": "016360.KS",
+            "currency": "KRW"
+        },
+        {
+            "name": "KODEX US NASDAQ100",
+            "type": "ETF",
+            "ticker": "379810.KS",
+            "currency": "KRW"
+        },
+        {
+            "name": "Invesco QQQ Trust, Series 1",
+            "type": "ETF",
+            "ticker": "QQQ",
+            "currency": "USD"
+        },
+        {
+            "name": "SOL US Dividend Blended 50",
+            "type": "ETF",
+            "ticker": "490490.KS",
+            "currency": "KRW"
+        },
+        {
+            "name": "QUALCOMM Incorporated",
+            "type": "EQUITY",
+            "ticker": "QCOM",
+            "currency": "USD"
+        },
+        {
+            "name": "KBFinancialGroup",
+            "type": "EQUITY",
+            "ticker": "105560.KS",
+            "currency": "KRW"
+        },
+        {
+            "name": "Apple Inc.",
+            "type": "EQUITY",
+            "ticker": "AAPL",
+            "currency": "USD"
+        },
+        {
+            "name": "Meritz Financial",
+            "type": "EQUITY",
+            "ticker": "138040.KS",
+            "currency": "KRW"
+        },
+        {
+            "name": "iShares 20+ Year Treasury Bond ",
+            "type": "ETF",
+            "ticker": "TLT",
+            "currency": "USD"
+        },
+        {
+            "name": "BlackRock, Inc.",
+            "type": "EQUITY",
+            "ticker": "BLK",
+            "currency": "USD"
+        },
+        {
+            "name": "ACE U.S. Long Term T-Bond Activ",
+            "type": "ETF",
+            "ticker": "453850.KS",
+            "currency": "KRW"
+        },
+        {
+            "name": "VIX Short-Term Futures ETF",
+            "type": "ETF",
+            "ticker": "VIXY",
+            "currency": "USD"
+        },
+        {
+            "name": "HyundaiMtr(1P)",
+            "type": "EQUITY",
+            "ticker": "005385.KS",
+            "currency": "KRW"
+        },
+        {
+            "name": "Alphabet Inc.",
+            "type": "EQUITY",
+            "ticker": "GOOGL",
+            "currency": "USD"
+        }
+    ]
+}
