@@ -31,7 +31,7 @@ def run_backtest_logic(start_date, end_date, portfolios, selected_tickers=None):
     if all_tickers:
         print(f"Downloading data for: {all_tickers}")
         fetch_start = (datetime.strptime(start_date, '%Y-%m-%d') - timedelta(days=10)).strftime('%Y-%m-%d')
-        df = yf.download(list(all_tickers), start=fetch_start, end=end_date)
+        df = yf.download(list(all_tickers), start=fetch_start, end=end_date, progress=False)
         if df.empty:
             return {"error": f"No price data found for tickers {list(all_tickers)} in the selected period."}
         
